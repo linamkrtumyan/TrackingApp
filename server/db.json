@@ -1,0 +1,97 @@
+{
+  "transports": [
+    {
+      "id": 1,
+      "driver": "Michael Schumacher",
+      "categoryId": 1,
+      "latitude": "40.8791",
+      "longitude": "45.1471",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 2,
+      "driver": "Lewis Hamilton",
+      "categoryId": 2,
+      "latitude": "40.8611",
+      "longitude": "45.1472",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 3,
+      "driver": "Fernando Alonso",
+      "categoryId": 2,
+      "latitude": "40.8761",
+      "longitude": " 45.1455",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 4,
+      "driver": "Carlo Abate",
+      "categoryId": 3,
+      "latitude": "40.8722",
+      "longitude": " 45.1422",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 5,
+      "driver": "Walt Ader",
+      "categoryId": 1,
+      "latitude": "40.8691",
+      "longitude": " 45.1571",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 6,
+      "driver": "Jean Alesi",
+      "categoryId": 3,
+      "latitude": "40.8798",
+      "longitude": " 45.1477",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 7,
+      "driver": "Cliff Allison",
+      "categoryId": 1,
+      "latitude": "40.8788",
+      "longitude": " 45.1477",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 8,
+      "driver": "Red Amick",
+      "categoryId": 2,
+      "latitude": "40.8766",
+      "longitude": " 45.1422",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 9,
+      "driver": "Emil Andres",
+      "categoryId": 1,
+      "latitude": "40.8797",
+      "longitude": " 45.1474",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 10,
+      "driver": "René Arnoux",
+      "categoryId": 1,
+      "latitude": "40.8785",
+      "longitude": " 45.1463",
+      "phoneNumber": "+37477994947"
+    },
+    {
+      "id": 11,
+      "driver": "Ian Ashley",
+      "categoryId": 3,
+      "latitude": "40.8784",
+      "longitude": " 45.1442",
+      "phoneNumber": "+37477994947"
+    }
+  ],
+  "categories": [
+    {"id": 1, "name": "Грузовой"},
+    {"id": 2, "name": "Пассажирский"},
+    {"id": 3, "name": "Спецтранспорт"}
+  ]
+}
